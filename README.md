@@ -1,2 +1,7 @@
 # Fertigungsmontage
-Heavy assembly works
+
+![License: LBDTL](https://img.shields.io/badge/Working_under_the-LBDT_License-pink)
+
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
+
+**Heavy assembly works ahead. Take caution!**
