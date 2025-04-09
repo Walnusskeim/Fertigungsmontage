@@ -67,13 +67,7 @@ It may be observed, contemplated, and discussed but not interacted with, reprodu
 
 ---
 
-## 6. Disclaimer  
-This software is provided “as-is” for artistic and contemplative purposes only, with no warranties, express or implied.  
-The author assumes no responsibility for any consequences resulting from unauthorized use.
-
----
-
-## 7. Commercial Exception Clause  
+## 6. Commercial Exception Clause  
 A commercial or functional use license **may** be granted **upon payment** to the author.  
 Such payment is subject to prior negotiation and will depend on the **complexity and scope** of the software in question.
 
