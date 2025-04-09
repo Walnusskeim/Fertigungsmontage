@@ -1,5 +1,5 @@
 #The Look-But-Don't-Touch License (LBDTL)
-Version 1.0
+*Version 2.0*
 
 Copyright (c) [2025] [Maximilian]
 
@@ -21,7 +21,7 @@ with respect, distance, and zero interaction.
 More legal writing style
 
 # The Look-But-Don't-Touch License (LBDTL)  
-*Version 1.0*
+*Version 2.0*
 
 Copyright (c) [2025] [Maximlian]
 
