@@ -4,4 +4,4 @@
 
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
 
-**Heavy assembly works ahead. Take caution!**
+**Heavy assembly work ahead. Take caution!**
