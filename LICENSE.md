@@ -10,7 +10,7 @@ Permission is hereby not granted, under any circumstances, to use this software 
 You may view the source code only for contemplative or aesthetic appreciation. Think of it like a painting in a museum: to be observed, not touched.
 
 If you wish to actually use it, however, you must pay the artist.
-The price depends on the complexity of the piece, so contact me first before making an offer.
+The price depends on the complexity of the piece, so contact the author first before making an offer.
 
 By accessing this code, you agree to treat it as you would a fragile artwork:
 with respect, distance, and zero interaction.
