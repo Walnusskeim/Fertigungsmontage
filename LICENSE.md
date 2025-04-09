@@ -1,4 +1,4 @@
-#The Look-But-Don't-Touch License (LBDTL)
+# The Look-But-Don't-Touch License (LBDTL)
 *Version 2.0*
 
 Copyright (c) [2025] [Maximilian]
@@ -15,15 +15,15 @@ The price depends on the complexity of the piece, so contact me first before mak
 By accessing this code, you agree to treat it as you would a fragile artwork:
 with respect, distance, and zero interaction.
 
----
+
 ---
 
-More legal writing style
+More legal writing style:
 
 # The Look-But-Don't-Touch License (LBDTL)  
 *Version 2.0*
 
-Copyright (c) [2025] [Maximlian]
+Copyright (c) [2025] [Maximilian]
 
 ---
 
@@ -63,8 +63,7 @@ No rights of ownership, usage, or transfer are conferred under this license.
 
 ## 5. Analogy Clause  
 This software is to be treated as a work of visual art in a museum:  
-> It may be observed, contemplated, and discussed—  
-> but not interacted with, reproduced, or removed from its intended context.
+It may be observed, contemplated, and discussed but not interacted with, reproduced, or removed from its intended context.
 
 ---
 
