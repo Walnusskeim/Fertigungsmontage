@@ -1,25 +1,3 @@
-# The Look-But-Don't-Touch License (LBDT License)
-*Version 2.0*
-
-Copyright (c) [2025] [Maximilian]
-
-This software is a piece of digital art. You may admire it, be inspired by it, or reflect on its structure. But you may not execute, compile, modify, distribute, or incorporate any part of it into your own work.
-
-Permission is hereby not granted, under any circumstances, to use this software for any functional, commercial, educational, or personal purpose.
-
-You may view the source code only for contemplative or aesthetic appreciation. Think of it like a painting in a museum: to be observed, not touched.
-
-If you wish to actually use it, however, you must pay the artist.
-The price depends on the complexity of the piece, so contact the author first before making an offer.
-
-By accessing this code, you agree to treat it as you would a fragile artwork:
-with respect, distance, and zero interaction.
-
-
----
-
-More legal writing style:
-
 # The Look-But-Don't-Touch License (LBDT License)  
 *Version 2.0*
 
@@ -39,7 +17,7 @@ Permission is granted to any individual to:
 
 - Access and view the source code in its unaltered form.
 
-**No other rights are granted.** In particular, the following actions are **expressly prohibited**:
+**No other rights are granted.** The following actions are **expressly prohibited**:
 
 - Executing, compiling, or otherwise running the software  
 - Copying, modifying, or creating derivative works based on the software  
@@ -72,6 +50,5 @@ A commercial or functional use license **may** be granted **upon payment** to th
 Such payment is subject to prior negotiation and will depend on the **complexity and scope** of the software in question.
 
 **No offers, payments, or assumptions of rights are valid** unless expressly agreed to in writing by the author in advance.  
-Interested parties **must** contact the author **before** making any financial offers or using the software in any way beyond viewing.
 
 ---
