@@ -1,5 +1,6 @@
 ;A program, in which the user can input two one-digit numbers.
 ;The chosen numbers will be shown to the user before adding them together.
+;Yo ts does not work btw
 ;12.04.2025 | Maximilian ❤
 
 section .data  ;Data segment
