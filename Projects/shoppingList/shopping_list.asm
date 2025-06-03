@@ -7,8 +7,10 @@ section .data
 	
 	appr db 'Alright. Your item was saved :)', 0xA
 	lenAppr equ $- appr
+
 	
-	INVENTORY TIMES 8 DW ' '
+section .bss
+	cart resw 1
 
 	
 section .text
@@ -19,6 +21,24 @@ _start:
     mov ebx, 1
     mov ecx, hello
     mov edx, lenHello
+    int 0x80
+    
+    mov eax, 3
+    mov ebx, 0
+    mov ecx, cart
+    mov edx, 32
+    int 0x80
+    
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, cart
+    mov edx, 32
+    int 0x80
+    
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, appr
+    mov edx, lenAppr
     int 0x80
 
     mov eax, 1
