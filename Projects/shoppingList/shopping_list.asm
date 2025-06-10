@@ -1,5 +1,3 @@
-;Simple shopping list. First, a file is being created where you can write your items in.
-;01.05.2025 | Maximilian
 
 section .data
 	hello db 'Hello, this is your shopping list! Type your item below:', 0xA, 0xD
@@ -43,5 +41,3 @@ _start:
 
     mov eax, 1
 	int 0x80
-	
-	
