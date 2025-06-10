@@ -34,6 +34,7 @@ _start:
     mov edx, lenHello
     int 0x80
     
+    INPUT:
     mov eax, 4
     mov ebx, 1
     mov ecx, input_msg
@@ -70,9 +71,10 @@ _start:
     mov edx, 1
     int 0x80
     
-    mov eax, [agn]
+    mov al, [agn]
+    sub al, '0'
     
-    CMP eax, 00
+    CMP al, 0
     JZ AGAIN
 	
 	BYE:
@@ -87,11 +89,14 @@ _start:
     int 0x80
     
     AGAIN:
+    ;JMP INPUT
     mov eax, 4
     mov ebx, 1
     mov ecx, type
     mov edx, lenType
     int 0x80
-
+	
+	
+	
     mov eax, 1
 	int 0x80
